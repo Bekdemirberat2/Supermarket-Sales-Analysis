@@ -30,31 +30,31 @@ Merkez (Temkinli ve İstikrarlı Orta Sınıf): Merkez bölgesindeki bireysel re
 
 Güney (Kutupsal Refah ve Gelir Uçurumu): Kişisel refah seviyesinin en sorunlu ve dengesiz olduğu yer açık ara Güney bölgesidir. Burada ortalama bir vatandaşın alım gücü ve kişisel refahı diğer bölgelerin fersah fersah gerisindedir; halkın ezici çoğunluğu sadece en temel sarf malzemelerini tüketebilen ve bütçe yetersizliğinden dolayı en yavaş lojistik hizmete mahkum olan düşük gelir grubundadır. Ancak aynı coğrafyada, bu geniş kitleyle tamamen zıt kutupta yaşayan, lojistikte paraya acımayan ve tek kalemde devasa lüks harcamalar yapabilen ultra yüksek refah sahibi sinsi bir azınlık bulunmaktadır. Güney, kişisel ekonomik refahın tabana yayılamadığı, sınıfsal uçurumun en derin hissedildiği bölgedir.
 
-Projeyi İndirmek İçin:
+##Projeyi İndirmek İçin:
 Bash
-1. Projeyi Klonlayın
+#1. Projeyi Klonlayın
 Öncelikle bu depoyu yerel makinenize çekin:
 git clone https://github.com/Bekdemirberat2/Supermarket-Sales-Analysis
 cd Supermarket-Sales-Analysis
 
-2. Sanal Ortam Oluşturun ve Aktif Edin (Tavsiye Edilen)
+#2. Sanal Ortam Oluşturun ve Aktif Edin (Tavsiye Edilen)
 Projelerin kütüphane bağımlılıklarının temiz kalması için bir sanal ortam oluşturun:
 Bash
-# Windows için:
+Windows için:
 python -m venv venv
 venv\Scripts\activate
 
-# macOS / Linux için:
+macOS / Linux için:
 python3 -m venv venv
 source venv/bin/activate
 
-3. Gerekli Kütüphaneleri Yükleyin
+#3. Gerekli Kütüphaneleri Yükleyin
 Projede analiz, veri manipülasyonu ve görselleştirme için kullanılan tüm bağımlılıkları tek tıkla kurun:
 
 Bash
 pip install -r requirements.txt
 
-4. Jupyter Notebook'u Başlatın
+#4. Jupyter Notebook'u Başlatın
 Her şey hazır olduğunda analiz dosyasını açmak için yerel sunucuyu tetikleyin:
 
 Bash
