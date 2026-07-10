@@ -30,7 +30,7 @@ Merkez (Temkinli ve İstikrarlı Orta Sınıf): Merkez bölgesindeki bireysel re
 
 Güney (Kutupsal Refah ve Gelir Uçurumu): Kişisel refah seviyesinin en sorunlu ve dengesiz olduğu yer açık ara Güney bölgesidir. Burada ortalama bir vatandaşın alım gücü ve kişisel refahı diğer bölgelerin fersah fersah gerisindedir; halkın ezici çoğunluğu sadece en temel sarf malzemelerini tüketebilen ve bütçe yetersizliğinden dolayı en yavaş lojistik hizmete mahkum olan düşük gelir grubundadır. Ancak aynı coğrafyada, bu geniş kitleyle tamamen zıt kutupta yaşayan, lojistikte paraya acımayan ve tek kalemde devasa lüks harcamalar yapabilen ultra yüksek refah sahibi sinsi bir azınlık bulunmaktadır. Güney, kişisel ekonomik refahın tabana yayılamadığı, sınıfsal uçurumun en derin hissedildiği bölgedir.
 
-##Projeyi İndirmek İçin:
+#Projeyi İndirmek İçin:
 Bash
 #1. Projeyi Klonlayın
 Öncelikle bu depoyu yerel makinenize çekin:
