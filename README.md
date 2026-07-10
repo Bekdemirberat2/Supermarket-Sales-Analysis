@@ -38,6 +38,7 @@ Bash
 Öncelikle bu depoyu yerel makinenize çekin:
 
 git clone https://github.com/Bekdemirberat2/Supermarket-Sales-Analysis
+
 cd Supermarket-Sales-Analysis
 
 #2. Sanal Ortam Oluşturun ve Aktif Edin (Tavsiye Edilen)
